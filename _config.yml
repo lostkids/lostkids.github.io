@@ -1,7 +1,9 @@
-theme: jekyll-theme-midnight
+color_scheme: dark
+
 title: Website
 author: Lostkids
 
+search_enabled: true
 timezone: "Europe/Berlin"
 
 plugins:
