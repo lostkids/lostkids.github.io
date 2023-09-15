@@ -4,8 +4,4 @@ title: Website
 author: Lostkids
 
 search_enabled: true
-timezone: "Europe/Berlin"
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
